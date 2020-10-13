@@ -14,3 +14,4 @@ R프로그래밍을 통한 데이터 분석
 
 ![Visualization(map)](https://user-images.githubusercontent.com/69666784/95716163-f5ecb500-0ca5-11eb-87bf-bea87e2cf00f.png)
 ***
+### 4.회귀분석
